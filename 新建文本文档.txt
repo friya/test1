@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-epubsh this branch 'develop' is going to be pushed by friya from local to server.
-=======
-epubsh  commit from master
->>>>>>> 1b2816e5c82d0fdd6e74bfb343155401245e29c7
